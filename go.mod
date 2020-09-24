@@ -21,8 +21,10 @@ require (
 	github.com/micro/cli/v2 v2.1.2
 	github.com/micro/go-micro/v2 v2.6.0
 	github.com/oklog/run v1.0.0
+	github.com/olekukonko/tablewriter v0.0.1
 	github.com/openzipkin/zipkin-go v0.2.2
 	github.com/owncloud/ocis-pkg/v2 v2.2.2-0.20200527082518-5641fa4a4c8c
+	github.com/prometheus/client_golang v1.2.1
 	github.com/remyoudompheng/bigfft v0.0.0-20200410134404-eec4a21b6bb0 // indirect
 	github.com/restic/calens v0.2.0
 	github.com/spf13/viper v1.6.3
